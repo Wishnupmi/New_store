@@ -147,8 +147,8 @@ Love Framework7? Support project by donating or pledging on:
 
 passwd phpmyadmin :
 ==================
-user : root
-passwd : admindatabase
+- user : root
+- passwd : admindatabase
 
 nyalakan api server app.js yang ada di webserver dengan node js :
 ================================================================
