@@ -141,9 +141,9 @@ Love Framework7? Support project by donating or pledging on:
 - OpenCollective: https://opencollective.com/framework7
 
 ## Catatanku =
-C:\Users\wishn\>git clone https://github.com/Wishnupmi/New_store.git
-C:\Users\wishn\>npm install
-C:\Users\wishn\>npm start
+- C:\Users\wishn\>git clone https://github.com/Wishnupmi/New_store.git
+- C:\Users\wishn\>npm install
+- C:\Users\wishn\>npm start
 
 passwd phpmyadmin :
 ==================
