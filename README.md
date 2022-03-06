@@ -145,11 +145,6 @@ Love Framework7? Support project by donating or pledging on:
 - C:\Users\wishn\>npm install
 - C:\Users\wishn\>npm start
 
-passwd phpmyadmin :
-==================
-- user : root
-- passwd : admindatabase
-
 nyalakan api server app.js yang ada di webserver dengan node js :
 ================================================================
 C:\AppServ\www\php_restapi_nodejs>node app.js
