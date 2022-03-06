@@ -139,3 +139,21 @@ framework7 assets --ui
 Love Framework7? Support project by donating or pledging on:
 - Patreon: https://patreon.com/framework7
 - OpenCollective: https://opencollective.com/framework7
+
+## Catatanku =
+C:\Users\wishn\>git clone https://github.com/Wishnupmi/New_store.git
+C:\Users\wishn\>npm install
+C:\Users\wishn\>npm start
+
+passwd phpmyadmin :
+==================
+user : root
+passwd : admindatabase
+
+nyalakan api server app.js yang ada di webserver dengan node js :
+================================================================
+C:\AppServ\www\php_restapi_nodejs>node app.js
+
+letak folder image upload ada di webserver :
+===========================================
+C:\AppServ\www\cobaupload\images
