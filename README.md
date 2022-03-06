@@ -140,7 +140,7 @@ Love Framework7? Support project by donating or pledging on:
 - Patreon: https://patreon.com/framework7
 - OpenCollective: https://opencollective.com/framework7
 
-## Catatanku =
+## My Note :
 - C:\Users\wishn\>git clone https://github.com/Wishnupmi/New_store.git
 - C:\Users\wishn\>npm install
 - C:\Users\wishn\>npm start
